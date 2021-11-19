@@ -1,0 +1,12 @@
+    /* .background {
+        background-color:rgb(34, 33, 33);
+    } */
+    .nav-link{
+       
+          
+        transition: .5s;
+    }
+.nav-link:hover{
+    background-color: #F10B92; 
+    color: white;
+}
